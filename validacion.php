@@ -77,6 +77,7 @@ echo '<body>';
         if ($categoria == 'psicotropos') {
             echo '<h2> Tabla de registros (libro recetario) !</h2><br>';
             //abrir el fichero en solo lectura (libroRecetario.txt)
+            //siempre llamar al fichero y abrirlo (fopen) fuera del while
             if ($file = fopen("./ficheros/libroRecetario.txt", "r")) {
                 echo '<table>
                 <tr>

@@ -16,7 +16,7 @@ echo <<<EOT
         <ul class="menu">
             <li><a href="gestionaFarmacia.php"> Formulario </li>
             <li>About</li>
-            <li><a href="./ficheros/libroRecetario.txt"> Libro recetario </a></li>
+            <li><a href="./ficheros/libroRecetario.txt"> Libro recetarioo </a></li>
             <li><a href="./ficheros/libroContabilidadEstupefacientes.txt"> Libro contabilidad estupefacientes </a></li>
             <li>Contact</li>
         </ul>

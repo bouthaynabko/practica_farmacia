@@ -1,0 +1,17 @@
+NA 002 3861-72-1 ACETILDIHIDROCODEINA (derivado de la codeina) 
+NC 005 76-57-3 CODEINA  3-metilmorfina (derivado de la morfina, alkaloide que se encuentra en el opio y en la paja de adormidera) 
+ND 004 469-62-5 DEXTROPROPOXIFENO Propionato de a-(+)-4-dimetilamino-1,2-difenil-3-metil-2-butanol (Isimero dextrogero de propoxifeno)  
+ND 008 125-28-0 DIHIDROCODEINA (derivado de la morfina) 
+NE 005 76-58-4 ETILMORFINA 3-etilmorfina  (derivado de la morfina) 
+NP 011 509-67-1 FOLCODINA  morfoliniletilmorfina  (derivado de la morfina) 
+NN 001 3688-66-2 NICOCODINA  6-nicotinilcodeina  (derivado de la morfina) 
+NN 002 808-24-2 NICODICODINA  6-nicotinildihidrocodeina  (derivado de la morfina) 
+NN 005 467-15-2 NORCODEINA  N-demetilcodeina  (derivado de la morfina) 
+NP 016 15686-91-6 PROPIRAM  N-(1-metil-2-piperidinetil)-N-2-piridilpropionamida
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+NA 015 101860-00-8 ACETIL-ALFA-METILFENTANILO N-[1-(a-metilfenetil)-4-piperidil]acetanilida 
+NA 004 509-74-0 ACETILMETADOL 3-acetoxi-6-dimetilamino-4,4-difenilheptano 
+NA 001 25333-77-1 ACETORFINA 3-O-acetiltetrahidro-7a-(1-hidroxi-1-metilbutil)-6,14-endo-etenooripavina (derivado de la tebaina) 
+NA 008 17199-58-5 ALFACETILMETADOL a-3-acetoxi-6-dimetilamino-4,4-difenilheptano 
+NA 009 468-51-9 ALFAMEPRODINA a-3-etil-1-metil-4-fenil-4-propionoxipiperidina 
+NA 010 17199-54-1 ALFAMETADOL a-6-dimetilamino-4,4-difenil-3-heptanol 
+NA 016 79704-88-4 ALFA-METILFENTANILO  N-[1-(a-metilfenetil)-4-piperidil]propionanilida 
+NA 017 103963-66-2 ALFA-METILTIOFENTANILO N-[1-[1-metil-2-(2-tienil)etil]-4-piperidil]propionanilida 
+NA 011 77-20-3 ALFAPRODINA a-1,3-dimetil-4-fenil-4-propionoxipiperidina 
+NA 014 71195-58-9 ALFENTANILO N-[1-[2-(4-etil-4,5-dihidro-5-oxo-1H-tetrazol-1-il)etil]-4-(metoximetil)-4-piperidinil]-N-fenilpropanamida 
+NA 007 25384-17-2 ALILPRODINA 3-alil-1-metil-4-fenil-4-propionoxipiperidina 
+NA 012 144-14-9 ANILERIDINA aster etalico del acido 1-p-aminofenetil-4-fenilpiperidin-4-carboxolico 
+NB 007 15301-48-1 BECITRAMIDA 1-(3-ciano-3,3-difenilpropil)-4-(2-oxo-3-propionil-1-bencimidazolinil)piperidina 
+NB 001 3691-78-9 BENCETIDINA aster etalico del acido 1-(2-benciloxietil)-4-fenilpiperidin-4- carboxolico 
+NB 002 36418-34-5 BENCILMORFINA 3-bencilmorfina
+NC 003  COCA (HOJA DE) La hoja del arbusto de coca (material de planta), salvo las hojas de las que se haya extraido toda la ecgonina, la cocaina y cualesquiera otros alcaloides de ecgonina  
+NC 004 50-36-2 COCAiNA ester metalico de la benzoilecgonina  (alcaloide extraado de la hoja de coca o preparado por santesis a partir de la ecgonina) 
+NC 006 7125-76-0 CODOXIMA  dihidrocodeinona-6-carboximetiloxima  (derivado de la morfina)
+NM 002 76-99-3 METADONA 6-dimetilamino-4,4-difenil-3-heptanona
+NM 009 57-27-2 MORFINA Alcaloide principal del opio y la paja de adormidera

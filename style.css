@@ -1,0 +1,208 @@
+* {
+	box-sizing: border-box;
+	font-family: montserrat;
+	font-size: 16px;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+html {
+	height: 100%;
+}
+
+h1 {
+	color: rgb(184, 162, 162);
+	font-family: montserrat;
+	text-align: center;
+	font-size: 15px;
+  	/*margin-top: 20px; */
+
+}
+
+.content-wrapper {
+	width: 1050px;
+	margin: 0 auto;
+}
+header {
+	border-bottom: 1px solid #EEEEEE;
+}
+header .content-wrapper {
+	display: flex;
+}
+
+header nav {
+	display: flex;
+	flex-grow: 1;
+	flex-basis: 0;
+	justify-content: center;
+	align-items: center;
+}
+header nav a {
+	text-decoration: none;
+	color: #555555;
+	padding: 10px 10px;
+	margin: 0 10px;
+}
+header nav a:hover {
+	border-bottom: 1px solid #aaa;
+}
+header .link-icons {
+	display: flex;
+	flex-grow: 1;
+	flex-basis: 0;
+	justify-content: flex-end;
+	align-items: center;
+	position: relative;
+}
+header .link-icons a {
+	text-decoration: none;
+	color: #394352;
+	padding: 0 10px;
+}
+header .link-icons a:hover {
+	color: #4e5c70;
+}
+header .link-icons a i {
+	font-size: 18px;
+}
+header .link-icons a span {
+	display: inline-block;
+	text-align: center;
+	background-color: #63748e;
+	border-radius: 50%;
+	color: #FFFFFF;
+	font-size: 12px;
+	line-height: 16px;
+	width: 16px;
+	height: 16px;
+	font-weight: bold;
+	position: absolute;
+	top: 22px;
+	right: 0;
+}
+
+
+footer {
+	position: absolute;
+	bottom: 0;
+	border-top: 1px solid #ab9e9e;
+	padding: 10px 0;
+	width: 100%;
+}
+body{
+	font-family: montserrat;
+	margin: 0;
+	background-color: rgb(236, 236, 236);
+	position: relative;
+	min-height: 100%;
+	color: #555555;
+	background-color: #FFFFFF;
+	margin: 0;
+	padding-bottom: 1000px; /* Same height as footer */
+	}
+	
+
+h2{
+	color: rgb(0, 114, 146);
+	text-align: center;
+}
+table{
+	width:100%;
+	border-radius: 15px;
+}
+tr{
+	padding: 5px;
+}
+th{
+	color: black;
+	background-color: lightblue;
+	padding: 5px;
+	margin: 0px;
+	border-radius: 5px 5px 0px 0px;
+}
+td{
+	background-color: white;
+	color: black;
+	padding: 5px;
+}
+button{
+	border-radius: 15px;
+	margin: 5px;
+	border: none;
+	background-color: rgb(241, 209, 169);
+	cursor: pointer;
+	padding: 10px 20px;
+  	font-size: 16px;
+
+}
+form{
+	background-color: rgb(249, 246, 242);
+	border-radius: 15px;
+	box-shadow: #32325d40 0px 6px 12px -2px, #0000004d 0px 3px 7px -3px;
+	padding: 30px 60px;
+	width: 50%;
+	font-size: 16px;
+	height: 650px; /* ajusta la altura según tus necesidades */
+	margin: 140px 500px 500px 435px;
+	position: absolute;
+	top: 0; bottom: 0; left: 0; right: 0;
+	text-align: center;
+	
+
+}
+
+input {
+	margin: 33px; /* Ajusta el margen según tus necesidades */
+	border: 1px solid #ccc; /* Añade un borde */
+	border-radius: 5px; /* Añade esquinas redondeadas */
+	font-size: 16px; /* Ajusta el tamaño de la fuente según tus necesidades */
+  }
+  
+  /* Puedes agregar estilos adicionales para diferentes estados del input, como hover o focus */
+  input:hover,
+  input:focus {
+	border-color: #9be69b; /* Cambia el color del borde al pasar el mouse o al estar enfocado */
+	box-shadow: 0 0 10px rgba(28, 97, 28, 0.5); /* Añade una sombra al pasar el mouse o al estar enfocado */
+  }
+span {
+	color:red;
+}
+
+h3{
+	color: rgb(0, 176, 170);
+}
+
+	
+	.website-head {
+		display: flex;
+		padding: 20px;
+		background-color: rgb(255, 255, 255);
+		justify-content: space-between;
+		align-items: center;
+	}
+	
+	.logo {
+		font-weight: bold;
+		color: #23a96e;
+		font-size: 22px;
+	}
+	
+	.menu {
+		padding: 0;
+		margin: 0;
+		display: flex;
+		list-style: none;
+		color: rgb(136, 136, 136);
+	}
+	
+	.menu li {
+		padding-right: 30px;
+		font-size: 20px;
+	}
+	
+
+	a {
+		padding-right: 30px;
+		font-size: 20px;
+		text-decoration: none;
+
+	}

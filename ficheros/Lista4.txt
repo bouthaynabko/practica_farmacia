@@ -1,0 +1,11 @@
+NA 015 101860-00-8 ACETIL-ALFA-METILFENTANILO N-[1-(a-metilfenetil)-4-piperidil]acetanilida 
+NA 001 3861-72-1 ACETORFINA 3-O-acetiltetrahidro-7a-(1-hidroxi-1-metilbutil)-6,14-endo-etenooripavina (derivado de la tebaina) 
+NA 016 79704-88-4 ALFA-METILFENTANILO N-[1-(a-metilfenetil)-4-piperidil]propionanilida 
+NA 017 103963-66-2 ALFA-METILTIOFENTANILO N-[1-[1-metil-2-(2-tienil)etil]-4-piperidil]propionanilida 
+NB 010 78995-14-9 BETA-HIDROXI-3-METILFENTANILO N-[1-(A-hidroxifenetil)-3-metil-4-piperidil]propionanilida 
+NB 009 78995-10-5 BETA-HIDROXIFENTANILO N-[1-(A-hidroxifenetil)-4-piperidil]propionanilida 
+NC 008 8063-14-7 6465-30-1 CANNABIS Y SU RESINA  las sumidades, floridas o con fruto de la planta de cannabis (resina no extraida) la resina separada, en bruto o purificada, obtenida de la planta de cannabis 
+NK 001 469-79-4 CETOBEMIDONA 4-m-hidroxifenil-1-metil-4-propionilpiperidina 
+ND 002 427-00-9 DESOMORFINA Dihidrodesoximorfina  (derivado de la morfina) 
+NE 007 14521-96-1 ETORFINA tetrahidro-7a-(1-hidroxi-1-metilbutil)-6,14-endo-etenooripavina (derivado de la tebaina) 
+NH 001 561-27-3 HEROINA Diacetilmorfina  (derivado de la morfina) 
